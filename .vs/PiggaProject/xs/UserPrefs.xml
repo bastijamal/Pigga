@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{BFC87B96-5CD9-4CC1-8B99-335E65ACC894}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="appsettings.json">
+    <Files>
+      <File FileName="Models/Chefs.cs" />
+      <File FileName="Program.cs" Line="17" Column="1" />
+      <File FileName="appsettings.json" Line="9" Column="1" />
+      <File FileName="Migrations/20240521101218_ChefsCreate.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PiggaProject" expanded="True">
+            <Node name="PiggaProject" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.PiggaProject PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
